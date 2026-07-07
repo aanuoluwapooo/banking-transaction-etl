@@ -1,0 +1,4 @@
+Transaction_ID,Customer_ID,Amount,Status,Transaction_Date
+T001,C101,500,Completed,2025-01-01
+T006,C106,800,Completed,2025-01-06
+T010,C110,1500,Completed,2025-01-10
